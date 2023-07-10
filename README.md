@@ -19,6 +19,5 @@
 ` ***to run your social distance detection project***
 
 
-# For GPU:
-You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
+
 

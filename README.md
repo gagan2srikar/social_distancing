@@ -15,7 +15,7 @@
 ***to activate your environment!***
 * **Write**   `  pip install -r requirements.txt  ` 
 ***to install the python dependencies related to this project like opencv,numpy,scipy etc.***
-* **Run the command** `time python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
+* **Run the command** `time python social_distance_detector.py --input Untitled video - Made with Clipchamp (2).mp4","--output","my_output1.avi","--display","1"
 ` ***to run your social distance detection project***
 
 

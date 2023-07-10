@@ -19,5 +19,15 @@
 ` ***to run your social distance detection project***
 
 
+video capture before:
+
+https://github.com/gagan2srikar/social_distancing/assets/112459680/7e1736d3-b513-4572-8109-ca3891754a3f
+
+
+
+video capture after:
+
+![my_output1](https://github.com/gagan2srikar/social_distancing/assets/112459680/add37373-124b-43de-9891-4e4ded12bfb4)
+
 
 
